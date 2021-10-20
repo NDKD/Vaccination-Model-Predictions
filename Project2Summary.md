@@ -38,13 +38,12 @@
 * Fact Checking further into data sourcing (Particularly International)
 
 ### Delegations in Our Team 
-* Tian Built the model and Pulled the Data
-* Luke and Nitin Ran the Sentiments and SubSequent Plots
-* Matt and Peter Set up inital Dashboard (Had Issues). 
-* Tian Built and Matt + Tian Deployed 2nd Dashboard. 
+* Tian built the LSTM model 
+* Nitin did the sentiments analysis and subsequent plotting and Luke assisted with functions
+* Peter and Matt deployed Dashboard. 
 * Peter Lead Presentation tool (Powerpoint)
-* Matt Lead Markdown File
+
 
 
 ## Team 
-* Matt, Peter, Luke, Nitin, Tian
+Luke, Matt, Nitin, Peter, Tian
